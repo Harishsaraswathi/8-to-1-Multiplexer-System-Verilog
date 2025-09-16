@@ -125,7 +125,7 @@ The simulation is carried out using ModelSim 2020.1.
 
 Waveforms will display the selected input line being passed to the output according to the select signals.
 
-(Insert waveform screenshot after running simulation in ModelSim)
+![Uploading WhatsApp Image 2025-09-16 at 14.31.13_21dd3098.jpg…]()
 
 
 ---
